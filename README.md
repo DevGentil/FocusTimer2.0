@@ -26,8 +26,8 @@ FocusTimer 2.0 é uma aplicação web desenvolvida para melhorar a concentraçã
 - `sounds.js`: Controle dos sons de ambiente.
 - `timer.js`: Lógica do temporizador.
 
-## Projeto
+## Projeto finalizado
 
-- [Acesse o FocusTimer2.0 finalizado](https://devgentilio.github.io/FocusTimer2.0/)
+https://devgentil.github.io/FocusTimer2.0/
 
 Feito com ❤️ por [DevGentil](https://github.com/DevGentil).
