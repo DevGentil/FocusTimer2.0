@@ -28,6 +28,6 @@ FocusTimer 2.0 é uma aplicação web desenvolvida para melhorar a concentraçã
 
 ## Projeto
 
-- [Acesse o TimerFocus2.0 finalizado]((https://devgentil.github.io/FocusTimer2.0/))
+- [Acesse o MyLinks finalizado](https://devgentilio.github.io/FocusTimer2.0)
 
 Feito com ❤️ por [DevGentil](https://github.com/DevGentil).
